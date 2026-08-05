@@ -11,7 +11,7 @@
 **Katılımcılar:** Pyeniax, Xstaf
 
 - Bir ticket içerisine gereksiz şekilde çok fazla yetkili girmemeli.
-- Bazı ticketlere 40-50 kişiye kadar yetkili yazıldığı ve bunun oyuncular tarafından rahatsız edici bulunduğu belirtildi.
+- Bazı ticketlere çok fazla yetkilinin yazdığı ve bunun oyuncular tarafından rahatsız edici bulunduğu belirtildi.
 - Bundan sonra ticketlerde yalnızca gerekli yetkililer görev alacak.
 
 ### Alınan Karar
@@ -22,7 +22,7 @@
 
 ## Reklam Ticketleri
 
-**Katılımcı:** Xstaf
+**Katılımcı:** Xtaf
 
 Sunucu reklamları, iş birlikleri ve benzeri konuların bulunduğu ticketler yalnızca kurucu ekip tarafından değerlendirilecek.
 
@@ -30,6 +30,12 @@ Sunucu reklamları, iş birlikleri ve benzeri konuların bulunduğu ticketler ya
 
 - Reklam ticketlerine moderasyon ekibi değil,
 - **Kurucular** bakacak.
+
+---
+## Yetkili Takip Sitesi
+**Katılımcı:** Yiğit Abi
+
+Yetkililerin minecraft sunucusu ve discord sunucusundaki bütün aktiflikleri ve yaptıkları işlemler denetlenecek.
 
 ---
 
@@ -44,6 +50,7 @@ Konuşulan başlıklar:
 - AntiCheat'in geliştirilmesi
 - Performans iyileştirmeleri
 - Yetkililerin talep ettiği **Vanish** özelliğinin eklenmesi
+- Vulcan AntiCheat kurulumu yapılacak.
 
 ---
 
@@ -51,12 +58,11 @@ Konuşulan başlıklar:
 
 **Katılımcı:** Wieq
 
-Yetkili oyuncuların PvP sonrasında sistem tarafından yanlış şekilde banlandığı belirtildi.
+Yetkililerin her kaybettiği pvp sonrası kontrol alması hakkında konuşuldu.
 
 ### Yapılacaklar
 
-- PvP kontrol sistemi incelenecek.
-- Yetkililerin yanlış banlanmasına neden olan hata giderilecek.
+- Yetkililerin haksız ban sonrası ceza almasına karar verildi.
 
 ---
 
@@ -68,8 +74,7 @@ Yetkililer için bazı zorunluluklar konuşuldu.
 
 ## Zorunlu Olacak
 
-- Yetkili tagı kullanımı
-- Discord durumunun belirli kurallara uygun olması
+- Discord durumuna sunucu ip adresi yazılacak.
 
 ---
 
@@ -95,12 +100,12 @@ Yetkililerin keyfi mute uyguladığı yönünde şikayetler bulundu.
 ### Sorunlar
 
 - Sebepsiz mute atılması
-- Gereksiz ceza uygulanması
-- Kuralların herkese eşit uygulanmaması
+- Kurallara uygun olmayan şekilde ceza vermek.
+- Kuralların herkese eşit uygulanmaması.
 
 ### Yapılacaklar
 
-- Mute sistemi yeniden gözden geçirilecek.
+- Kurallara uygun ceza vermeyenler uyarı alacak.
 - Yetkililerin ceza politikaları denetlenecek.
 
 ---
@@ -120,7 +125,7 @@ Discord sohbetlerinde sebepsiz mute işlemleri yapıldığı belirtildi.
 
 # 🌌 Skyblock / BoxMining
 
-**Katılımcılar:** Xstaf, Pyeniax
+**Katılımcılar:** Xtaf, Pyeniax
 
 Konuşulan başlıklar:
 
@@ -136,7 +141,7 @@ Konuşulan başlıklar:
 
 **Katılımcı:** Wieq
 
-Yetkililerin BoxMining sunucusunda gereksiz sohbet yaptığı belirtildi.
+Yetkililerin BoxMining yetkili odasında (/ys) gereksiz sohbet yaptığı belirtildi.
 
 ### Karar
 
@@ -176,31 +181,15 @@ Bu konular geliştirme sürecinde tekrar değerlendirilecek.
 
 ---
 
-# 🐢 Kaplumbağa Kılıcı
+# 🐢 Kaplumbağa İksiri
 
 **Katılımcı:** Pyeniax
 
-Kaplumbağa Kılıcı'nın özellikleri ve denge durumu konuşuldu.
+Kaplumbağa iksiri eklenecek
 
 Yapılacaklar:
 
-- Özelliklerin yeniden düzenlenmesi
-- Denge testlerinin yapılması
-
----
-
-# 🏜️ Çöl Kılıçları
-
-**Katılımcılar:** Wieq, Pyeniax
-
-Çöl temalı kılıçların yeni özellikleri değerlendirildi.
-
-Konuşulanlar:
-
-- Pasif yetenekler
-- Aktif özellikler
-- Hasar dengesi
-- Kullanım alanları
+- Kullanıldığında kişiye dayanıklılık ve yavaşlatma verecek.
 
 ---
 
@@ -226,9 +215,9 @@ Konuşulan konular:
 - Ticketlere en fazla **2 yetkili** bakacak.
 - Reklam ticketleri yalnızca kurucu ekip tarafından değerlendirilecek.
 - Hile koruması geliştirilecek.
-- Yetkililer için Vanish özelliği değerlendirilecek.
+- Yetkililer için Vanish özelliği eklenecek.
 - PvP sonrası yanlış ban sorunu düzeltilecek.
-- Yetkili tag ve Discord durum kuralları uygulanacak.
+- Yetkili Discord durum kuralları uygulanacak.
 - Klan tagları serbest olacak.
 - Keyfi mute uygulamaları engellenecek.
 - Discord moderasyonu denetlenecek.
